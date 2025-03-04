@@ -19,4 +19,5 @@ algorithm. Compare the results of these two algorithms and comment on the qualit
 ML library classes/API in the program.
 9. Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong
 predictions. Java/Python ML library classes can be used for this problem.
-10. Implement the non-parametric Locally Weig
+10. Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate
+data set for your experiment and draw graphs

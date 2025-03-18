@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = "1_findS_algo/data.csv"
+file_path = "./data.csv"
 
 def find_s_algorithm(file_path):
     data = pd.read_csv(file_path)

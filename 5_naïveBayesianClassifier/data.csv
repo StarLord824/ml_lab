@@ -1,0 +1,9 @@
+Age,Income,Gender,Purchase
+25,50000,Male,No
+30,60000,Female,Yes
+35,75000,Female,Yes
+40,80000,Male,No
+45,85000,Female,Yes
+50,90000,Male,No
+55,95000,Female,Yes
+60,100000,Male,No
